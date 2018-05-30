@@ -23,7 +23,7 @@ Enjoy!
 ---
 **NOTE**
 
-This is a duplicate of another [Github Repo: MUSE] (https://github.com/rhythmsection/muse) which hosts the firebase deployed app. You can go there for a more detailed documentation of the app. This repo holds a variation on the same app, except built on a node.js/express/PostgreSQL backend for a little spice and variety.
+This is a duplicate of another [Github Repo: MUSE](https://github.com/rhythmsection/muse) which hosts the firebase deployed app. You can go there for a more detailed documentation of the app. This repo holds a variation on the same app, except built on a node.js/express/PostgreSQL backend for a little spice and variety.
 
 ---
 
