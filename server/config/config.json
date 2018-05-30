@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "kstar",
+    "password": null,
+    "database": "url-shortener",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "kstar",
+    "password": null,
+    "database": "url-shortener",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
