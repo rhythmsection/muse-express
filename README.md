@@ -30,7 +30,7 @@ This is a duplicate of another [Github Repo: MUSE](https://github.com/rhythmsect
 
 ## About Me
 
-I'm K. McClure and you can find out more about me [here](http://www.koorogi.com).
+I'm K. McClure and you can find out more about me [here](http://www.kxmcclure.com).
 
 
 ## Create React App
